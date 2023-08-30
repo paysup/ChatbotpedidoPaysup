@@ -1,7 +1,7 @@
 ### CHATBOT Z1 PAYSUP
 
 <p align="center">
-  <img width="300" src="https://i.imgur.com/Oauef6t.png">
+  <img width="300"  src="https://z1.pe/writable/tmp/thumb/1693425176_d16e92e7eeff725d6fea.png">
 </p>
 
 
@@ -18,7 +18,12 @@ npm start
 - [📄 contacto ](https://wa.link/gnbfm6)
 - [🚀 software whatsapp](https://z1.pe/)
 - [🎥 Youtube](https://www.youtube.com/@programacionwebfacil) 
- 
- <style> README.md { 
-color:red
- }       <style>
+ #PAYSUP 🤖Chatbot Envia encuestas con pedidos ¡Pide comida a domicilio con un solo click! 📱 https://www.youtube.com/watch?v=byiWfVS1Kys&t=11s
+  
+    </head>
+    <body>
+        <img src="https://github.com/paysup/chatbotrestaurantepaysup/blob/main/proyecto%20de%20bot%20de%20whatsapp%20mr.png" alt="200"> 
+        <h1>CREADO POR PAYSUP</h1>
+        <img src="https://github.com/paysup/chatbotrestaurantepaysup/blob/main/envia%20poll.png" alt="200"> 
+    </body>
+    </html>
