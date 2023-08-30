@@ -1,0 +1,464 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4C36E590DF2AB8E227DB6F770848872',
+    participant: undefined
+  },
+  messageTimestamp: 1693347973,
+  pushName: 'Moises Romero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584241278885@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE57ED71A255A24',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '584241278885@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 91 7a a2 cb 06 c4 60 4e b1 1d 72 b2 f4 3d a6 a2 90 68 15 9c 2e 77 7f 24 8d 43 31 d7 f6 84 07 2d>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51944239178@s.whatsapp.net',
+    fromMe: false,
+    id: '514E34EF97D5C1B5FA',
+    participant: undefined
+  },
+  messageTimestamp: 1693348029,
+  pushName: 'Tomas Amayo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Tomas Amayo',
+  body: 'Hola',
+  from: '51944239178@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '51944239178@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE5C2F315AC2BA9',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '51944239178@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 3d 3a 3f 3d 06 7f 46 13 f4 ab 05 56 15 e6 41 07 2a a9 ea 08 be 47 8a a0 5a ac 5e b0 19 48 88 1d>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: false,
+    id: '06D2EB8682894D75D12AF33A733C1CA0',
+    participant: undefined
+  },
+  messageTimestamp: 1693348923,
+  pushName: 'Moises Romero',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-6f995c01-ee09-4956-9cab-6510b87a7223?ccb=9-4&oh=01_AdT9F3_zWKggjps11U2xw305LaAqLTXJoygtJfLhqkr3qw&oe=6515FECB&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 720,
+      width: 1280,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m238/up-oil-image-6f995c01-ee09-4956-9cab-6510b87a7223?ccb=9-4&oh=01_AdT9F3_zWKggjps11U2xw305LaAqLTXJoygtJfLhqkr3qw&oe=6515FECB',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__e2102493-a764-4608-952a-9f9a78df856f',
+  from: '584241278885@s.whatsapp.net',
+  type: 'image'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584166753077@s.whatsapp.net',
+    fromMe: false,
+    id: '72CA7F5E1C52AE2BA07ACAE8E0950C93',
+    participant: undefined
+  },
+  messageTimestamp: 1693348994,
+  pushName: 'Josedaniel',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'No matching sessions found for message' ],
+  verifiedBizName: 'Josedaniel',
+  body: undefined,
+  from: '584166753077@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584166753077@s.whatsapp.net',
+    fromMe: false,
+    id: '72CA7F5E1C52AE2BA07ACAE8E0950C93',
+    participant: undefined
+  },
+  messageTimestamp: 1693348995,
+  pushName: 'Josedaniel',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'No matching sessions found for message' ],
+  body: undefined,
+  from: '584166753077@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584166753077@s.whatsapp.net',
+    fromMe: false,
+    id: '72CA7F5E1C52AE2BA07ACAE8E0950C93',
+    participant: undefined
+  },
+  messageTimestamp: 1693348997,
+  pushName: 'Josedaniel',
+  broadcast: false,
+  verifiedBizName: 'Josedaniel',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584166753077@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '584166753077@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE51AF1FA250B5C',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '584166753077@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 57 48 c4 b0 12 5d 0d fb c0 20 bf d7 50 cd 6f 0d 19 16 89 7d ad f6 d9 b1 fc 1b ea 68 85 6d db 9e>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '120363169127891095@g.us',
+    fromMe: false,
+    id: '41E9DC8BACF358BE293A60707F647C95',
+    participant: '584166753077@s.whatsapp.net'
+  },
+  messageTimestamp: 1693349015,
+  pushName: 'Josedaniel',
+  broadcast: false,
+  message: Message {
+    senderKeyDistributionMessage: SenderKeyDistributionMessage {
+      groupId: '120363169127891095@g.us',
+      axolotlSenderKeyDistributionMessage: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    conversation: '3'
+  },
+  verifiedBizName: 'Josedaniel',
+  body: '3',
+  from: '120363169127891095@g.us',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: false,
+    id: 'FBFB9A119C390E200978D38A08E71D0A',
+    participant: undefined
+  },
+  messageTimestamp: 1693349140,
+  pushName: 'Moises Romero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584241278885@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE5020CF71B37E2',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '584241278885@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 0b 4f 1e 77 d6 c6 1b a6 78 12 fe 41 ca dc b8 7a 84 42 32 85 e9 9a 63 b2 53 81 6d 2c 65 65 c1 ac>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '120363169127891095@g.us',
+    fromMe: false,
+    id: 'C1F82DEC9984DDDFC3B7984F309AA730',
+    participant: '584166753077@s.whatsapp.net'
+  },
+  messageTimestamp: 1693349177,
+  pushName: 'Josedaniel',
+  broadcast: false,
+  message: Message { conversation: '1' },
+  body: '1',
+  from: '120363169127891095@g.us',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: false,
+    id: '221E32CC061A59D6A975DA26B9F1D40B',
+    participant: undefined
+  },
+  messageTimestamp: 1693349178,
+  pushName: 'Moises Romero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584241278885@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '584241278885@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE5ABBE063E4F4A',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '584241278885@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 3a fb 3a ea 10 60 49 46 43 1d fc 69 2b 8f c3 7f c2 dd 5a c6 18 c3 c4 b1 d2 7e 72 7b dd 09 7d cf>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584149000423@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04FEB8309FBC097E8C5',
+    participant: undefined
+  },
+  messageTimestamp: 1693349774,
+  pushName: 'Lisbeth Camejo',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '584149000423@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '584149000423@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE52F40F070C74B',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '584149000423@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 3b 49 8a f9 74 21 67 d2 60 e2 0c 53 b3 91 19 81 cf a2 dc 98 64 30 e8 19 a8 91 39 db 50 5b a5 18>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51944239178@s.whatsapp.net',
+    fromMe: false,
+    id: '965A97DA75D55DB0EA',
+    participant: undefined
+  },
+  messageTimestamp: 1693352083,
+  pushName: 'Tomas Amayo',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-19c411f6-be4e-4899-827d-b0afe28a0d0d?ccb=9-4&oh=01_AdQuM7OZ-KUU4-c33wv-8Fzk8FLW3hSagzmkysthOKLsTA&oe=6515F1DD&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: '',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 428,
+      width: 881,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-19c411f6-be4e-4899-827d-b0afe28a0d0d?ccb=9-4&oh=01_AdQuM7OZ-KUU4-c33wv-8Fzk8FLW3hSagzmkysthOKLsTA&oe=6515F1DD',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Tomas Amayo',
+  body: '_event_media__c37f4625-f943-412b-abaa-cef1e3302c88',
+  from: '51944239178@s.whatsapp.net',
+  type: 'image'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584149000423@s.whatsapp.net',
+    fromMe: false,
+    id: 'BC82F190D331E368305C5EB3B22F828A',
+    participant: undefined
+  },
+  messageTimestamp: 1693352723,
+  pushName: 'Lisbeth Camejo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '584149000423@s.whatsapp.net',
+  type: 'text'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '584149000423@s.whatsapp.net',
+    fromMe: true,
+    id: 'BAE53ED40CE698EF',
+    participant: undefined
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: '3. WHOPPER CON QUESO Y TOCINETA',
+  from: '584149000423@s.whatsapp.net',
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 52 68 09 dd e5 35 8f 3e 59 e2 3b b9 cc fa 14 38 5e 36 2f ad 8f c4 8c 94 7c 9d a8 6b 22 59 46 31>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: ' Bienvenido a nuestro restaurante, ¿en qué puedo ayudarlo hoy? claro, tenemos una gran variedad de opciones para elegir\n' +
+        '¿Qué tipo de comida le gusta?',
+      selectableOptionsCount: 1
+    }
+  },
+  type: 'poll'
+}
